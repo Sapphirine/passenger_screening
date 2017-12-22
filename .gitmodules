@@ -1,3 +1,9 @@
 [submodule "Recipes"]
 	path = Recipes
 	url = https://github.com/killianrutherford/Recipes.git
+[submodule "screening_webapp"]
+	path = screening_webapp
+	url = https://github.com/goddenrich/screening_webapp.git
+[submodule "deep-learning-for-human-part-discovery-in-images"]
+	path = deep-learning-for-human-part-discovery-in-images
+	url = https://github.com/goddenrich/deep-learning-for-human-part-discovery-in-images.git
